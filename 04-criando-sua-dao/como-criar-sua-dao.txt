@@ -1,0 +1,10 @@
+-> Nomeie a DAO
+-> Crie uma declaração da missão de sua DAO
+-> Qual a entrega da DAO
+-> Crie um servidor Discord
+-> Crie uma conta no Twitter
+-> Convide as pessoas para participar
+-> Lance um token de governança
+-> Crie um mecanismo de financiamento para captar os recursos necessários
+-> Configue o snapshot ou outras ferramentas para votar e registrar as contribuições dos membros
+-> Crie uma LLC
